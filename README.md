@@ -8,9 +8,6 @@ Welcome to the UN-SDG SQL Explorer—a powerful toolkit for delving into the dat
 🌐 **Explore Global Progress:**
 Dive into the wealth of data related to the 17 SDGs, spanning diverse themes such as poverty, health, education, climate action, and more. Our carefully curated SQL queries provide a seamless way to navigate through the intricate web of indicators and targets, allowing you to analyze progress at a global, regional, or even country-specific level.
 
-📊 **Rich Data Visualization:**
-We believe in the power of visualization. Leverage the SQL queries in this repository to extract data for creating compelling charts, graphs, and dashboards. Illuminate your findings and tell a compelling story about how nations are working towards a sustainable future.
-
 🔍 **Customizable Queries:**
 Tailor your exploration with easily customizable SQL queries. Whether you're a seasoned data analyst or just getting started, our repository provides a foundation for querying data that suits your specific needs. Effortlessly adapt queries to focus on specific goals, regions, or timeframes.
 
